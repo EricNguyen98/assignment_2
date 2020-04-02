@@ -1,16 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
 h1 {
-  font-family: helvetica, arial, sans-serif;
+  font-family: 'Libre Baskerville', serif;
   text-align: center;
 }
 
 body {
+  font-family: 'Libre Baskerville', serif;
   width: 640px;
   margin: 0 auto;
 }
 
 .full-img {
   position: relative;
-  display: block;
+  display: flex;
   width: 640px;
   height: 480px;
 }
@@ -33,6 +36,7 @@ button {
   cursor: pointer;
   top: 2px;
   left: 2px;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .thumb-bar img {
