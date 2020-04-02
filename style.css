@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 h1 h2{
-  text-align: center;
   font-family: 'Libre Bakersville', serif;
 }
 
 body {
+  text-align: center;
   margin: 0 auto;
   display: flex;
   align-items: center;
