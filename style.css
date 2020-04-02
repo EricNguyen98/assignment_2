@@ -7,6 +7,9 @@ h1 {
 
 body {
   font-family: 'Libre Baskerville', serif;
+  /* background-color: rgb(255, 231, 202); */
+  background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   width: 640px;
   margin: 0 auto;
 }
