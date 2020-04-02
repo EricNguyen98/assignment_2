@@ -24,7 +24,7 @@ h1 {
 
 .full-img {
   position: relative;
-  display: flex;
+  display: block;
   width: 640px;
   height: 480px;
 }
