@@ -6,7 +6,6 @@ h1 h2{
 }
 
 body {
-  width: 640px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -42,6 +41,9 @@ button {
   font-family: 'Libre Bakersville', serif;
 }
 
+.thumb-bar{
+  width: 640px;
+}
 .thumb-bar img {
   display: block;
   width: 20%;
