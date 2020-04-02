@@ -1,25 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
-html {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(to right, #2193b0, #6dd5ed);
-  font-family: 'Libre Baskerville', serif;
+h1 h2{
+  text-align: center;
+  font-family: 'Libre Bakersville', serif;
 }
 
 body {
   width: 640px;
-  /* margin: 0 auto; */
+  margin: 0 auto;
   display: flex;
   align-items: center;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-h1 {
-  text-align: center;
+  font-family: 'Libre Bakersville', serif;
 }
 
 .full-img {
@@ -30,15 +22,12 @@ h1 {
 }
 
 .overlay {
-  /* position: absolute; */
-  /* top: 0; */
-  /* left: 0; */
+  position: absolute; 
+  top: 0; 
+  left: 0; 
   width: 640px;
   height: 480px;
   background-color: rgba(0,0,0,0);
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 button {
@@ -50,6 +39,7 @@ button {
   cursor: pointer;
   top: 2px;
   left: 2px;
+  font-family: 'Libre Bakersville', serif;
 }
 
 .thumb-bar img {
