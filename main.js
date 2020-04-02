@@ -3,7 +3,7 @@ const thumbBar = document.querySelector('.thumb-bar');
 
 const btn = document.querySelector('button');
 const overlay = document.querySelector('.overlay');
-
+//MDN was referenced to write functions
 /* Looping through images */
 
 for(let i = 1; i <= 5; i++) {
