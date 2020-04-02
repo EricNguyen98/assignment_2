@@ -10,7 +10,6 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  font-family: 'Libre Bakersville', serif;
 }
 
 .full-img {
